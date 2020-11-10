@@ -1,4 +1,6 @@
-### Hi there 👋
+### #!/bin/bash
+STR="Hello World!"
+echo $STR 👋
 
 <!--
 **MatricksDeCoder/MatricksDeCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
