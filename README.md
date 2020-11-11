@@ -40,10 +40,16 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 <a href="https://www.w3schools.com/html/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076815/html_ehsifq.png"></a>&nbsp;&nbsp;
 <a href="https://www.w3schools.com/css/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076961/css_rnfbqc.png"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605077167/bootstrap_zk6s4c.jpg"></a>&nbsp;&nbsp;
-<a href=""><img height="45" src=""></a>&nbsp;&nbsp;
+<a href="https://www.npmjs.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605077696/npm_ajhm1s.png"></a>&nbsp;&nbsp;
+<a href="https://cloud.google.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605077818/GoogleCloud_nsnquu.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/ "><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605078109/mongo_mnhtet.png"></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605078326/exress_tjnzcc.png"></a>&nbsp;&nbsp;
 </p>
+
 - - -
+
 #### 📈 My Stats on Github:
+
 | ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MatricksDeCoder&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=MatricksDeCoder&theme=blue-green)](https://github.com/MatricksDeCoder/github-readme-stats)      | 
 | ---------------                                                                                                | --------------- | 
 
