@@ -18,6 +18,7 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 <a href="https://matricksdecoder.hashnode.dev/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605069648/Hashnode_mex4sx.png"></a>
 </p>
 - - -
+
 #### 🌱 I currently know or am learning the following languages:
 
 | Python          | JavaScript      | TypeScript      | Solidity        | R              |   C++          |   Golang        |   C#            |
@@ -26,6 +27,21 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 - - -
 #### ⚡ I currently know or am learning the following Technologies & Tools:
 
+<p>
+<a href="https://numpy.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605074946/Numpy_ozfrvy.png"></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1502609088/React_mfa2cv.png"></a>&nbsp;&nbsp;
+<a href="https://www.trufflesuite.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605075273/Truffle_th2o5e.png"></a>&nbsp;&nbsp;
+<a href="https://web3js.readthedocs.io/en/v1.3.0/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605075572/Web3_kpmft8.png"></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1502609088/nodeJS_ofgrbi.png"></a>&nbsp;&nbsp;
+<a href="https://www.heroku.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076091/Heroku_rqpo0b.png"></a>&nbsp;&nbsp;
+<a href="https://ethereum.org/en/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076200/Ethereum_lr1qis.png"></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076515/pandas_vmqidd.png"></a>&nbsp;&nbsp;
+<a href="https://jupyter.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076680/Jupyter_aa9a7a.png"></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/html/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076815/html_ehsifq.png"></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605076961/css_rnfbqc.png"></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605077167/bootstrap_zk6s4c.jpg"></a>&nbsp;&nbsp;
+<a href=""><img height="45" src=""></a>&nbsp;&nbsp;
+</p>
 - - -
 #### 📈 My Stats on Github:
 | ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MatricksDeCoder&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=MatricksDeCoder&theme=blue-green)](https://github.com/MatricksDeCoder/github-readme-stats)      | 
