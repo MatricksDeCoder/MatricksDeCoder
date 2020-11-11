@@ -5,7 +5,9 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 #### 📖 My areas of interest:
 | Software Development | Blockchain      | Web Development | Startups & Entrepreneurship | Fintech        |   Actuarial    |   Data Science & Machine Learning |      
 | ---------------      | --------------- | --------------- | ---------------             |--------------- |--------------- |---------------  |
-- - -   
+
+- - -  
+
 <p>
 📫 You can reach me:
 <a href="https://twitter.com/Zed_Developer"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
@@ -17,14 +19,16 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 <a href="https://www.facebook.com/MatricksDecoder/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605069383/Facebook_tchsb3.png"></a>&nbsp;&nbsp;
 <a href="https://matricksdecoder.hashnode.dev/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605069648/Hashnode_mex4sx.png"></a>
 </p>
+
 - - -
 
 #### 🌱 I currently know or am learning the following languages:
 
-| Python          | JavaScript      | TypeScript      | Solidity        | R              |   C++          |   Golang        |   C#            |
+| Python          |      JavaScript | TypeScript      | Solidity        | R              |   C++          |   Golang        |   C#            |
 | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |---------------  |---------------  |
 
 - - -
+
 #### ⚡ I currently know or am learning the following Technologies & Tools:
 
 <p>
@@ -44,6 +48,18 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 <a href="https://cloud.google.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605077818/GoogleCloud_nsnquu.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com/ "><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605078109/mongo_mnhtet.png"></a>&nbsp;&nbsp;
 <a href="https://expressjs.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605078326/exress_tjnzcc.png"></a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605087759/Tensorflow_zr6htg.png"></a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/sql/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605087945/SQL_q0kfhg.png"></a>&nbsp;&nbsp;
+<a href="https://webpack.js.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605088173/Weback_iq0p1n.jpg"></a>&nbsp;&nbsp;
+<a href="https://graphql.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605088365/GQL_bbey7d.png"></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605088697/VSCode_qcuhmu.png"></a>&nbsp;&nbsp;
+<a href="https://jquery.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1502609086/jquery_esvnfa.png"></a>&nbsp;&nbsp;
+<a href="https://slack.com/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605089081/slack_rryk4s.png"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/7090684/matricksdecoder"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605070030/StackOverflow_ta1k0m.png"></a>&nbsp;&nbsp;
+<a href="https://keras.io/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605089639/Keras_sll7j0.png"></a>&nbsp;&nbsp;
+<a href="https://redux.js.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605089302/Redux_u6dqnx.png"></a>&nbsp;&nbsp;
+<a href="https://d3js.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1502609084/d3_efg2rl.png"></a>&nbsp;&nbsp;
+<a href="https://metamask.io/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605090176/Metamask_n54clm.png"></a>&nbsp;&nbsp;
 </p>
 
 - - -
