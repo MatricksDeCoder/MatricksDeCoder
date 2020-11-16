@@ -1,6 +1,6 @@
 #### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🙋‍♂️💻 👨‍💻😎👽 My name is Zvinodashe Mupambirei you can call me Zed! ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MatricksDeCoder.MatricksDeCoder)
 
-Not worried that I am not becoming a good dancer as fast as I am becoming a good coder!   Aspiring Full Stack Software Developer, Data Scientist, Financial Engineer, Techie, Blockchain Developer and more.   Yes, I still believe there is a place for Jack of All Trades who strive at Mastery of what they are doing at the moment!   Looking to use coding to create, innovate, add value and solve problems.   My journey is only starting but I hope to make it Epic, meet you along the way!
+Not worried that I am not becoming a good dancer as fast as I am becoming a good coder!    Aspiring Full Stack Software Developer, Data Scientist, Financial Engineer, Techie, Blockchain Developer and more.    Yes, I still believe there is a place for Jack of All Trades who strive at Mastery of what they are doing at the moment!   Looking to use coding to create, innovate, add value and solve problems.     My journey is only starting but I hope to make it Epic, meet you along the way!
 
 #### 📖 My areas of interest:
 | Software Development | Blockchain      | Web Development | Startups & Entrepreneurship | Fintech        |   Actuarial    |   Data Science & Machine Learning |      
