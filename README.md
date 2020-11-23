@@ -71,6 +71,8 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 
 ### 📩 Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
+- [Successful blogging means to me...](https://matricksdecoder.hashnode.dev/successful-blogging-means-to-me-ckhhif09200hobys1ghjchk9o)
+- [Create object from two arrays representing keys and values](https://matricksdecoder.hashnode.dev/create-object-from-two-arrays-representing-keys-and-values-ckhhgh6qr00b5b0s1bg4ogi4w)
 <!-- BLOG-POST-LIST:END -->
 
 
