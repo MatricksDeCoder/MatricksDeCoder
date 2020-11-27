@@ -71,9 +71,8 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 
 ### 📩 Latest Blog Posts.
 <!-- BLOG-POST-LIST:START -->
-- [What motivates me to blog. Writers block bring it on!](https://matricksdecoder.hashnode.dev/what-motivates-me-to-blog-writers-block-bring-it-on-ckhu8v5cp00wcses1gysd24u3)
-- [Secrets to become a great developer](https://matricksdecoder.hashnode.dev/secrets-to-become-a-great-developer-ckholc84703n2eks116bu2ecj)
-- [Review AlgoExpert! Ace Coding Interviews.](https://matricksdecoder.hashnode.dev/review-algoexpert-ace-coding-interviews-ckhiybrzn002o7ys1bx3o406c)
+- [Successful blogging means to me...](https://matricksdecoder.hashnode.dev/successful-blogging-means-to-me-ckhhif09200hobys1ghjchk9o)
+- [Create object from two arrays representing keys and values](https://matricksdecoder.hashnode.dev/create-object-from-two-arrays-representing-keys-and-values-ckhhgh6qr00b5b0s1bg4ogi4w)
 <!-- BLOG-POST-LIST:END -->
 
 
