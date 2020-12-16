@@ -2,14 +2,14 @@
 
 Not worried that I am not becoming a good dancer as fast as I am becoming a good coder! Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more.    Yes, I still believe there is a place for Jack of All Trades who strive at Mastery of what they are doing at the moment!   Looking to use coding to create, innovate, add value and solve problems.     My journey is only starting but I hope to make it Epic, meet you along the way!
 
-#### 📖 My areas of interest:
+#### 📖 My areas of interest :
 | Software Development | Blockchain      | Web Development |  | Fintech        |      |   Data Science & Machine Learning |      
 | ---------------      | --------------- | --------------- | ---------------             |--------------- |--------------- |---------------  |
 
 - - -  
 
 <p>
-📫 You can reach me on:
+📫 You can reach me on :
 <a href="https://twitter.com/Zed_Developer"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matricksdecoder/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068515/LinkedIn_apa4np.png"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/matricksdecoder"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068767/Kaggle_ae6wk6.png"></a>&nbsp;&nbsp;
