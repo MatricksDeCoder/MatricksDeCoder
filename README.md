@@ -9,7 +9,7 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 - - -  
 
 <p>
-📫 You can reach me :
+📫 You can reach me on :
 <a href="https://twitter.com/Zed_Developer"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matricksdecoder/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068515/LinkedIn_apa4np.png"></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/matricksdecoder"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068767/Kaggle_ae6wk6.png"></a>&nbsp;&nbsp;
