@@ -29,7 +29,7 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 
 - - -
 
-#### ⚡ I currently know or am learning the following Technologies & Tools:
+#### ⚡ I currently know or am learning following Technologies & Tools:
 
 <p>
 <a href="https://numpy.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605074946/Numpy_ozfrvy.png"></a>&nbsp;&nbsp;
