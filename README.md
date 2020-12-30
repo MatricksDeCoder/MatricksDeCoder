@@ -69,7 +69,7 @@ Not worried that I am not becoming a good dancer as fast as I am becoming a good
 | ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MatricksDeCoder&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=MatricksDeCoder&theme=blue-green)](https://github.com/MatricksDeCoder/github-readme-stats)      | 
 | ---------------                                                                                                | --------------- | 
 
-### 📩 Latest Blog Posts.
+### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [web3.js vs. ethers.js](https://matricksdecoder.hashnode.dev/web3js-vs-ethersjs-ckifv2thx01ugfhs1fk0wedto)
 - [What motivates me to blog. Writers block bring it on!](https://matricksdecoder.hashnode.dev/what-motivates-me-to-blog-writers-block-bring-it-on-ckhu8v5cp00wcses1gysd24u3)
