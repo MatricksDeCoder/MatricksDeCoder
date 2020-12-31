@@ -64,7 +64,7 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 
 - - -
 
-#### 📈 Stats on Github:
+#### 📈 Stats Github:
 
 | ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MatricksDeCoder&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=MatricksDeCoder&theme=blue-green)](https://github.com/MatricksDeCoder/github-readme-stats)      | 
 | ---------------                                                                                                | --------------- | 
