@@ -10,6 +10,7 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 
 <p>
 📫 You can reach me:
+
 <a href="https://twitter.com/Zed_Developer"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Zed_Blockchain"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Zed_Quant"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
@@ -18,6 +19,7 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 <a href="https://www.freecodecamp.org/matricksdecoder"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1502609084/fccicon_o5jith.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/zizvino"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605072080/Telegram_iu1tln.png"></a>&nbsp;&nbsp;
 <a href="https://matricksdecoder.hashnode.dev/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605069648/Hashnode_mex4sx.png"></a>
+<a href="https://app.poap.xyz/scan/0xFc0BBFE1e6391Ad733B0016d41E50cFa2725717E"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1636625146/POAP_f1xq5x.svg"></a>&nbsp;&nbsp;
 </p>
 
 - - -
