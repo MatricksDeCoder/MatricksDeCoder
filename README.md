@@ -17,7 +17,6 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 <a href="https://www.linkedin.com/in/matricksdecoder/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068515/LinkedIn_apa4np.png"></a>&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/matricksdecoder"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1502609084/fccicon_o5jith.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/zizvino"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605072080/Telegram_iu1tln.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/MatricksDecoder/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605069383/Facebook_tchsb3.png"></a>&nbsp;&nbsp;
 <a href="https://matricksdecoder.hashnode.dev/"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605069648/Hashnode_mex4sx.png"></a>
 </p>
 
