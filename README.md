@@ -24,14 +24,14 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 
 - - -
 
-#### 🌱 I currently know or have used the following languages :
+#### 🌱 Some programming languages I know or have used:
 
 | Python          | JavaScript      | TypeScript      | Solidity        | R              |   C++          |   Golang        |  Vyper          |
 | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |---------------  |---------------  |
 
 - - -
 
-#### ⚡ I currently know or am learning following Technologies & Tools:
+#### ⚡ Some Technologies & Tools I know or have used:
 
 <p>
 <a href="https://numpy.org/"><img height="45" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605074946/Numpy_ozfrvy.png"></a>&nbsp;&nbsp;
