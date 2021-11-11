@@ -2,9 +2,9 @@
 
 Not worried I am not becoming a good dancer as fast as I am becoming a good coder! Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more.    Yes, I still believe there is a place for Jack of All Trades who strive at Mastery of what they are doing at the moment!   Looking to use coding to create, innovate, add value and solve problems.     My journey is only starting but I hope to make it Epic, meet you along the way!
 
-#### 📖 Knowledge Areas :
-| Software Development | Blockchain      | Web Development | Fintech        | Data Science & Machine Learning | Financial Engineering | Smart Contract Auditing |    
-| ---------------      | --------------- | --------------- | ---------------| ------------------------------- |-----------------------| ----------------------- |
+#### 📖 Knowledge and Interest reas :
+| Software Development | Blockchain      | Actuarial | Web Development | Fintech        | Data Science & Machine Learning | Financial Engineering | Smart Contract Auditing |    
+| ---------------      | --------------- | --------  | --------------- | ---------------| ------------------------------- |-----------------------| ----------------------- |
 
 - - -  
 
