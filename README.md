@@ -22,9 +22,9 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 
 - - -
 
-#### 🌱 I currently know or am learning the following languages :
+#### 🌱 I currently know or have used the following languages :
 
-| Python          |      JavaScript | TypeScript      | Solidity        | R              |   C++          |   Golang        |   C#            |
+| Python          | JavaScript      | TypeScript      | Solidity        | R              |   C++          |   Golang        |  Vyper          |
 | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |---------------  |---------------  |
 
 - - -
