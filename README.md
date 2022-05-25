@@ -2,10 +2,6 @@
 
 Not worried I am not becoming a good dancer as fast as I am becoming a good coder! Yes, I still believe there is a place for Jack of All Trades who strive at Mastery of what they are doing at the moment!   Looking to use coding to create, innovate, add value and solve problems.     My journey is only starting but I hope to make it Epic, meet you along the way!
 
-#### 📖 Knowledge and Interest areas :
-| Software Development | Blockchain      | Actuarial | Web Development | Fintech        | Data Science & Machine Learning | Financial Engineering | Smart Contract Auditing |    
-| ---------------      | --------------- | --------  | --------------- | ---------------| ------------------------------- |-----------------------| ----------------------- |
-
 - - -  
 
 <p>
