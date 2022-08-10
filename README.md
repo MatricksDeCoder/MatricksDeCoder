@@ -20,7 +20,7 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 
 - - -
 
-#### 🌱 Some programming languages I know or have used:
+#### 🌱 Some programming languages I know or have used :
 
 | Solidity        | R               | TypeScript      |  Cadence        |   Python       |  JavaScript |
 | --------------- | --------------- | --------------- | --------------- |--------------- |  ---------- |
