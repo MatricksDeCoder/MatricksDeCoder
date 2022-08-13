@@ -5,7 +5,7 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 - - -  
 
 <p>
-📫 You can reach or connect with me on :
+📫 You can reach or connect with me on:
 
 <a href="https://twitter.com/Zed_Developer"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Zed_Blockchain"><img height="30" src="https://res.cloudinary.com/matricksdecoder/image/upload/v1605068053/Twitter_rf1qt0.png"></a>&nbsp;&nbsp;
@@ -20,7 +20,7 @@ Not worried I am not becoming a good dancer as fast as I am becoming a good code
 
 - - -
 
-#### 🌱 Some programming languages I know or have used :
+#### 🌱 Some programming languages I know or have used:
 
 | Solidity        | R               | TypeScript      |  Cadence        |   Python       |  JavaScript |
 | --------------- | --------------- | --------------- | --------------- |--------------- |  ---------- |
